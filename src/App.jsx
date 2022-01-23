@@ -14,7 +14,7 @@ export default function App() {
 
   const checkIfWalletIsConnected = async () => {
     try {
-
+ 
       /*
       * First make sure we have access to window.ethereum
       */
